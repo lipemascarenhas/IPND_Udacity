@@ -1,0 +1,44 @@
+body{
+width: 600px;
+ margin: 0 auto;
+}
+.header{
+  background-color: #6495ED;
+  font-family: arial;
+  width: 180px;
+  text-align: center;
+  border-radius: 10px;
+  margin: 5px;
+  color: white;
+}
+h1{
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+h2{
+  font-family: arial;
+}
+#menu01{
+  position: relative;
+  top: -45px;
+  left: 230px;
+  width: 200px;
+  font-family: arial;
+}
+  #menu02{
+    position:relative;
+    top: -63px;
+    left: 450px;
+    width: 150px;
+    font-family: arial;
+  }
+.menu{
+    background-color:  #ffb3b3;
+  }
+p{
+  font-family: arial;
+  text-align: justify;
+  width: 600px;
+}
